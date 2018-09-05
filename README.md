@@ -2,7 +2,7 @@
 
 This is a simple train scheduldde app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
 
-## Running thesds app
+## Running thesds aapp
 
 You need a Java JDK 7 or later to run the build. You casadadn run the build like this:
 
